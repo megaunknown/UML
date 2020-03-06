@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T08:51:00.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="QljFGxDry-9LFD9hISPI" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T08:51:13.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="bBhJpy--erwQBvpKEP7b" version="12.8.1" type="github">
   <diagram id="iDmEV4xfBFaUqcXDAkOV" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxPoint x="350" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnOw2bOIOfJmauQ3m6Sg-10" value="member :LibraryMember" style="html=1;points=[];perimeter=orthogonalPerimeter;shape=umlLifeline;participant=label;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="1">
+        <mxCell id="KnOw2bOIOfJmauQ3m6Sg-10" value="book :Book" style="html=1;points=[];perimeter=orthogonalPerimeter;shape=umlLifeline;participant=label;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="140" height="400" as="geometry" />
         </mxCell>
         <mxCell id="KnOw2bOIOfJmauQ3m6Sg-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KnOw2bOIOfJmauQ3m6Sg-10">
